@@ -1,2 +1,1 @@
-# MyProject
-About project
+# resource_management
